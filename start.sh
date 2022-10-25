@@ -1,5 +1,5 @@
 echo "Cloning Repo, Please Wait..."
-git clone xxxxxxx /oracle
-cd /oracle
+git clone xxxxxxx /jembut
+cd /jembut
 echo "Starting Bot, Please Wait..."
 python3 bot.py
