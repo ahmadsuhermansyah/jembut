@@ -1,9 +1,9 @@
-displayName = 'xxxxxxxxx'
-compartmentId = 'xxxxxxxx'
-availabilityDomain = "xxxxxxxxx"
-imageId = "xxxxxxxxx"
-subnetId = 'xxxxxxxxxx'
-ssh_authorized_keys = "xxxxxxxxx"
+displayName = 'baru'
+compartmentId = 'ocid1.tenancy.oc1..aaaaaaaa3zz5455a7ht5wywpodlbn6c7izqjewk52f5gmohmmc45fkkuqnpq'
+availabilityDomain = "MdKx:AP-SINGAPORE-1-AD-1"
+imageId = "ocid1.image.oc1.ap-singapore-1.aaaaaaaaazypld2lt35isxkk6lkusierp2yjoxfnabwbhwn6uv3dqvjuktaa"
+subnetId = 'ocid1.subnet.oc1.ap-singapore-1.aaaaaaaa72iykp7m7qzdmcy6xfrdeufu7qdr3xxuewr5rbqmi7d4764rnsia'
+ssh_authorized_keys = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC8EQNSqPekjv4URxyhr9EHbOn6BBBwEVrRVY3GAe2G3H5mVMzLwKzmJafpsYOSQ6MyAojKqtkFz+uYkJw0pC6vctwmkdhPCHqBS6tsNoIckyTfx1ckum/IwYojXToHe13PF4CWVjKfWKL6CsQU3LhAXX6VrADtfbmxe52Xc4pHQM6QAW6I+2g2zMyaGyATY/9A0AYK9bfqXw8s9uLARAASkDydXzjJS0Kjg6U6UUOoZ8rDq+PfTvRFkXQAtQTNjfEllhN5skRfILCaZNxcZJpDaeM6YMPcMcmlsCmgAguiFY/5NVygc4hnJbDtmq9YiVpqy6fRMdfQPvcBwV0ftNnf ssh-key-2022-10-25"
 
 
 import oci
