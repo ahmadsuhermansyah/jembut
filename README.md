@@ -1,1 +1,1 @@
-# oracle
+# bukan apa2
